@@ -6,6 +6,6 @@ What is a Monte Carlo Method?: the method that relies on repeated random samplin
 
 (Read also more information at https://en.wikipedia.org/wiki/Monte_Carlo_method)
 
-**Input argument**: Number of Uniformly Random Repeating (integer variable defined by N)
-**Output argument**: Estimated Pi Value from One Unit Circle
+**Input argument**: Number of Uniformly Random Repeating (integer variable defined by N)  
+**Output argument**: Estimated Pi Value from One Unit Circle  
 **Output Figure**: Show the dotted plot of estimating one unit circle area
