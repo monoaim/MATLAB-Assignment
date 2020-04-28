@@ -6,6 +6,6 @@ This requires the *Image Processing Toolbox*. Please install it before designing
 
 *(Rice image file)*
 
-**Input argument**: Rice Image (`rice.png` given as attachment)  
+**Input argument**: Rice Image ([rice.png](rice.png) given as attachment)  
 **Output argument**: Number of counts  
 **Output Figure**: Show the rice image and its counting as text or caption
